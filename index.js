@@ -16,7 +16,7 @@ function theBeatlesPlay (musicians, instruments) {
 
 
 //johnLennonFacts function adds "!!!" to the end of each fact passed in.
-//Parameters: array of facts about John johnLennonFacts
+//Parameters: array of facts about John Lennon
 //Return: array of strings with exclamations points
 
 function johnLennonFacts (facts) {
