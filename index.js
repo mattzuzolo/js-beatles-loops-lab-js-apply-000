@@ -48,6 +48,7 @@ function iLoveTheBeatles (num) {
   
   do {  
     loveOutput.push("I love the Beatles!");
+    //increment the num passed in as a parameter
     num++;
   } while (num < 15);
   
