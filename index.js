@@ -1,4 +1,4 @@
-//theBeatlesPlay function create an empty array. Loop over array of musicians. Create strings in the loop for each iteration and add to new array.
+//theBeatlesPlay function create an empty array. For loop over array of musicians. Create strings in the loop for each iteration and add to new array.
 //Parameters: array of musicians, array of instruments
 //returns the new array with the new strings formed in the for loop
 
